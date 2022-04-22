@@ -11,6 +11,7 @@ import java.util.Scanner;
 //˗ Határozza meg és írja ki nemenként csoportosítva a tagok számát.
 //˗ Kérjen be a konzolról egy nevet. Határozza meg, hogy az adott személy ki van-e tiltva a klubból.
 // Ha a megadott névvel nem szerepel klubtag, akkor „Nincs ilyen tagja a klubnak” üzenet jelenjen meg.
+//https://static.javatpoint.com/src/jdbc/mysql-connector.jar
 
 public class Statisztika {
     Connection conn;
